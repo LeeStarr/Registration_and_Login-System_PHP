@@ -1,0 +1,10 @@
+fieldset{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    width: 20%;
+    height: 40px;
+
+}
